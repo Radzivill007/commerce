@@ -71,7 +71,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
             <span>&copy; 2020 ACME, Inc. All rights reserved.</span>
           </div>
           <div className="flex items-center text-primary text-sm">
-            <span className="text-primary">Created by</span>
+            <span className="text-primary">ахахахахха</span>
             <a
               rel="noopener"
               href="https://vercel.com"
